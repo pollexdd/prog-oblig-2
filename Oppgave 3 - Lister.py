@@ -8,4 +8,5 @@ bøker.append("Unfinished Tales")
 bøker[2] ="Lord of the Rings The Fellowship of the Ring"
 bøker[3] ="Lord of the Rings The Two Towers"
 bøker[4] ="Lord of the Rings The Return of the King"
-
+bøker.sort()
+print(bøker)
