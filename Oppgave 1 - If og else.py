@@ -1,6 +1,6 @@
 
 print("Hva er meningen med livet?")
-Tall =int(input("skriv svaret på livet "))
+Tall = (input("skriv svaret på livet "))
 
 if (Tall) == "42":
     print("Det stemmer, meningen med livet er 42!")   
