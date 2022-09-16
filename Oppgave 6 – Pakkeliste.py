@@ -2,7 +2,7 @@
 while True:
 
     pakkeliste = []
-    print("velg hva du vil pakke")
+    
     print("0 får å se listen")
     print("1 pc")
     print("2 klær")
@@ -30,5 +30,6 @@ while True:
             pakkeliste.append("pc")
         if valg == "2":
             pakkeliste.remove("pc")
+            
 
     
