@@ -1,4 +1,4 @@
-
+# starter med tom liste og legger til alle bøkene
 bøker = []
 bøker.append ("Lord of the Rings The Fellowship of the Ring")
 bøker.append ("Lord of the Rings The Two Towers")
