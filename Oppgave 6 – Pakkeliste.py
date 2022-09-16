@@ -23,7 +23,7 @@ while True:
 
     if valg_av_modus == "1":
         print("du har valgt pc, velg hva du vil gjøre")
-        valg = input("velg 1 får å legge til 2 for å slette fra liste ")
+        valg = input("velg 1 får å legge til, 2 for å slette fra liste ")
         print("1 legg til")
         print("2 slett")
         if valg == "1": 
