@@ -18,14 +18,16 @@ while True:
     
     #hvis man velger 3 blir while loopen avsluttet
     if valg_av_modus == "4":
-        print("Da er du ferdig med å pakke dette har du tatt med deg " + str(pakkeliste))
+        print("Da er du ferdig med å pakke, dette har du tatt med deg " + str(pakkeliste))
         break
 
     if valg_av_modus == "1":
         objekt = input("hva vil du legge til? ")
         pakkeliste.append (objekt)
+        continue
     
     if valg_av_modus == "2":
-        objekt = input("hva vil du slette? ")
         print(pakkeliste)
+        objekt = input("hva vil du slette? ")
         pakkeliste.remove (objekt)
+        continue
