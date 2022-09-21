@@ -21,10 +21,12 @@ while True:
         print("Da er du ferdig med å pakke, dette har du tatt med deg " + str(pakkeliste))
         break
 
+
     if valg_av_modus == "1":
         objekt = input("hva vil du legge til? ")
         pakkeliste.append (objekt)
         continue
+    
     
     if valg_av_modus == "2":
         print(pakkeliste)

@@ -1,0 +1,21 @@
+Teorioppgave 1 - if-test/if-statement 
+
+if-test er hvis en spesifikk ting blir oppfylt vil den kjøre den koden.
+eks. man få kode til å kjøre hvis et input tall er mellom 10 og 20.
+
+if er hvis noe er oppfylt.
+elif er hvis den forrige if ikke ble oppfylt.
+else skjer hvis noe ikke før blir oppfylt.
+
+Teorioppgave 2 - liste 
+
+lister er et sted der man kan lagre flere variabler.
+
+man kan lett slette og legge til lister hvis man vil ha flere variabler.
+man kan sortere de som man vil.
+og det er letter å lage en liste istedfor mange variabler.
+
+Teorioppgave 3 - løkker
+
+løkker er at koden inne i løkken vil kjøre om igjen hver gang den blir startet.
+hvis man vil at kode skal kjøre flere ganger en en må det være i en løkke.
