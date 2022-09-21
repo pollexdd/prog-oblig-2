@@ -1,3 +1,5 @@
+#lagde 2 pakke liste programmer, var usikker på hvordan dere ville at det skulle gjøres etter jeg så meldingen på discord.
+
 #tom pakkeliste utenfor while loppen så de blir lagret
 pakkeliste = []
 
